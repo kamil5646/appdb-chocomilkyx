@@ -1,0 +1,178 @@
+{
+  "updatedAt": "2026-10-18T17:55:52.586952+00:00",
+  "appCount": 3981,
+  "sources": [
+    {
+      "url": "https://fastsign.dev/repo.json",
+      "name": "Alan's Gigantic Repo",
+      "apps": 16496
+    },
+    {
+      "url": "https://driftywinds.github.io/AltStore/apps.json",
+      "name": "driftywinds' AltStore Repo",
+      "apps": 10
+    },
+    {
+      "url": "https://raw.githubusercontent.com/titouan336/Spotify-AltStoreRepo-mirror/refs/heads/main/source.json",
+      "error": "No apps in source"
+    },
+    {
+      "url": "https://repos.gabrx.eu.org/cypwn.json",
+      "name": "CyPwn IPA Library",
+      "apps": 209
+    },
+    {
+      "url": "https://wuxu1.github.io/wuxu-complete-plus.json",
+      "name": "WuXu's Library++",
+      "apps": 13
+    },
+    {
+      "url": "https://community-apps.sidestore.io/sidecommunity.json",
+      "name": "SideStore Team Picks",
+      "apps": 23
+    },
+    {
+      "url": "https://stikdebug.xyz/index.json",
+      "name": "StikDebug & More!",
+      "apps": 2
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/apps.json",
+      "name": "lo.cafe Repository",
+      "apps": 1
+    },
+    {
+      "url": "https://raw.githubusercontent.com/yodaluca23/SpotC-AltStore-Repo/main/AltStore%20Repo.json",
+      "name": "SpotCompiled",
+      "apps": 3
+    },
+    {
+      "url": "https://theodyssey.dev/altstore/odysseysource.json",
+      "name": "Odyssey",
+      "apps": 2
+    },
+    {
+      "url": "https://ish.app/altstore.json",
+      "name": "iSH",
+      "apps": 1
+    },
+    {
+      "url": "https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/refs/heads/main/apps2.json",
+      "name": "YouTubeRebornPlus Source",
+      "apps": 1
+    },
+    {
+      "url": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/refs/heads/main/.github/apps.json",
+      "name": "LiveContainer",
+      "apps": 1
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Balackburn/Apollo/refs/heads/main/apps.json",
+      "name": "Apollo for Reddit",
+      "apps": 1
+    },
+    {
+      "url": "https://repo.owo.network/",
+      "name": "OwO Source",
+      "apps": 159
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
+      "name": "YTLitePlus",
+      "apps": 1
+    },
+    {
+      "url": "https://altstore.oatmealdome.me/",
+      "name": "OatmealDome's AltStore Source",
+      "apps": 2
+    },
+    {
+      "url": "https://alts.lao.sb/",
+      "name": "Laoalts",
+      "apps": 1
+    },
+    {
+      "url": "https://quarksources.github.io/dist/quantumsource%2B%2B.min.json",
+      "name": "Quantum Source++",
+      "apps": 35
+    },
+    {
+      "url": "https://xitrix.github.io/iTorrent/AltStore.json",
+      "name": "iTorrent Source",
+      "apps": 1
+    },
+    {
+      "url": "https://driftywinds.github.io/repos/esign.json",
+      "name": "driftywinds' ESign Repo",
+      "apps": 3
+    },
+    {
+      "url": "https://raw.githubusercontent.com/WhySooooFurious/Ultimate-Sideloading-Guide/refs/heads/main/raw-files/app-repo.json",
+      "name": "WSF Source",
+      "apps": 4
+    },
+    {
+      "url": "https://raw.githubusercontent.com/khcrysalis/Feather/main/app-repo.json",
+      "name": "Feather Repository",
+      "apps": 1
+    },
+    {
+      "url": "https://repos.gabrx.eu.org/nabzclan.json",
+      "name": "Sidelix App Store",
+      "apps": 1304
+    },
+    {
+      "url": "https://gablilli.github.io/stremiorepo/index.json",
+      "name": "Stremio Library",
+      "apps": 2
+    },
+    {
+      "url": "https://flyinghead.github.io/flycast-builds/altstore.json",
+      "name": "Flyinghead",
+      "apps": 1
+    },
+    {
+      "url": "https://alt.thatstel.la/",
+      "error": "Expecting value: line 29 column 13 (char 3558)"
+    },
+    {
+      "url": "https://repos.gabrx.eu.org/esign.json",
+      "name": "轻松签源",
+      "apps": 1
+    },
+    {
+      "url": "https://alt.crystall1ne.dev/",
+      "name": "crystall1ne.dev",
+      "apps": 2
+    },
+    {
+      "url": "https://apps.sidestore.io/",
+      "name": "SideStore Official",
+      "apps": 1
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps_esign.json",
+      "name": "Neoncat-OG IPA Library",
+      "apps": 1988
+    },
+    {
+      "url": "https://raw.githubusercontent.com/vizunchik/AltStoreRus/master/apps.json",
+      "name": "Panda App Ru++",
+      "apps": 18
+    },
+    {
+      "url": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json",
+      "name": "swaggyP36000 IPA Library",
+      "apps": 623
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Gliddd4/gliddd4-repo/refs/heads/main/app.json",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://therealfoxster.github.io/altsource/apps.json",
+      "name": "Foxster's AltSource",
+      "apps": 2
+    }
+  ]
+}
