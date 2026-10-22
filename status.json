@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T04:40:52.351680+00:00",
-  "appCount": 3997,
+  "updatedAt": "2026-10-22T11:48:42.580716+00:00",
+  "appCount": 3998,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
@@ -74,7 +74,7 @@
     {
       "url": "https://repo.owo.network/",
       "name": "OwO Source",
-      "apps": 160
+      "apps": 161
     },
     {
       "url": "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
