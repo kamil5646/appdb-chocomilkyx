@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T17:08:30.689572+00:00",
-  "appCount": 3998,
+  "updatedAt": "2026-10-22T21:33:29.911036+00:00",
+  "appCount": 3999,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
@@ -13,8 +13,9 @@
       "apps": 10
     },
     {
-      "url": "https://raw.githubusercontent.com/titouan336/Spotify-AltStoreRepo-mirror/refs/heads/main/source.json",
-      "error": "No apps in source"
+      "url": "https://raw.githubusercontent.com/SideloadLabs/SideloasLabs-AltSource/refs/heads/main/apps.json",
+      "name": "SideloadLabs Repo",
+      "apps": 2
     },
     {
       "url": "https://repos.gabrx.eu.org/cypwn.json",
@@ -74,7 +75,7 @@
     {
       "url": "https://repo.owo.network/",
       "name": "OwO Source",
-      "apps": 114
+      "apps": 161
     },
     {
       "url": "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",

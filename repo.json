@@ -109415,6 +109415,30 @@
       "versionDescription": "یەکێک لە باشترین ئەپڵیکەیشنەکان بپ باگراوند و بەرهەمهێنانی وێنە ✅  تایبەتمەندی پڕایم کراوەتۆ ✅"
     },
     {
+      "name": "EeveeSpotifyReincarnated(PATCHED)",
+      "bundleIdentifier": "com.spotify.client.patched",
+      "developerName": "SideloadLabs",
+      "downloadURL": "https://files.catbox.moe/ogibmn.ipa",
+      "iconURL": "https://files.catbox.moe/9fgova.JPG",
+      "localizedDescription": "Spotify Version: v9.1.88, EeveeSpotify Version: 7.0.0. Patched version, use this only if you're using paid cert, jailbroken, or trollstore",
+      "size": 13000000,
+      "subtitle": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
+      "tintColor": "1DB954",
+      "version": "9.1.88",
+      "versionDate": "2026-10-05",
+      "versionDescription": "Updated to Spotify v9.1.88, Full release notes on github",
+      "versions": [
+        {
+          "version": "9.1.88",
+          "date": "2026-10-05",
+          "localizedDescription": "Updated to Spotify v9.1.88, Full release notes on github",
+          "downloadURL": "https://files.catbox.moe/ogibmn.ipa",
+          "size": 13000000
+        }
+      ],
+      "screenshotURLs": []
+    },
+    {
       "name": "真果鉴",
       "realBundleID": "com.duanju.duanjuApp",
       "bundleID": "com.duanju.duanjuApp",
