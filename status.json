@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T10:55:49.578344+00:00",
+  "updatedAt": "2026-10-24T15:55:23.528553+00:00",
   "appCount": 4010,
   "sources": [
     {
@@ -25,7 +25,7 @@
     {
       "url": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "name": "WuXu's Library++",
-      "apps": 12
+      "apps": 13
     },
     {
       "url": "https://community-apps.sidestore.io/sidecommunity.json",
