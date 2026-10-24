@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-23T21:23:06.937099+00:00",
+  "updatedAt": "2026-10-24T04:33:28.174292+00:00",
   "appCount": 4010,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
       "name": "Alan's Gigantic Repo",
-      "apps": 16823
+      "apps": 18030
     },
     {
       "url": "https://driftywinds.github.io/AltStore/apps.json",
