@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T04:43:22.077280+00:00",
+  "updatedAt": "2026-10-26T12:58:20.017887+00:00",
   "appCount": 4020,
   "sources": [
     {
@@ -134,7 +134,7 @@
     },
     {
       "url": "https://alt.thatstel.la/",
-      "error": "Expecting value: line 29 column 13 (char 3558)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "url": "https://repos.gabrx.eu.org/esign.json",
