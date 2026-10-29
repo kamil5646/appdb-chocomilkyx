@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T22:33:01.587817+00:00",
-  "appCount": 4019,
+  "updatedAt": "2026-10-29T05:45:31.078070+00:00",
+  "appCount": 4015,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
       "name": "Alan's Gigantic Repo",
-      "apps": 16038
+      "apps": 16063
     },
     {
       "url": "https://driftywinds.github.io/AltStore/apps.json",
@@ -20,7 +20,7 @@
     {
       "url": "https://repos.gabrx.eu.org/cypwn.json",
       "name": "CyPwn IPA Library",
-      "apps": 207
+      "apps": 210
     },
     {
       "url": "https://wuxu1.github.io/wuxu-complete-plus.json",
@@ -134,7 +134,7 @@
     },
     {
       "url": "https://alt.thatstel.la/",
-      "error": "Expecting value: line 29 column 13 (char 3558)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "url": "https://repos.gabrx.eu.org/esign.json",
