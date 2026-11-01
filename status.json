@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-01T13:17:55.133020+00:00",
-  "appCount": 4011,
+  "updatedAt": "2026-11-01T21:59:40.990615+00:00",
+  "appCount": 4013,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
@@ -25,7 +25,7 @@
     {
       "url": "https://wuxu1.github.io/wuxu-complete-plus.json",
       "name": "WuXu's Library++",
-      "apps": 13
+      "apps": 30
     },
     {
       "url": "https://community-apps.sidestore.io/sidecommunity.json",
