@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T00:56:19.430551+00:00",
-  "appCount": 3983,
+  "updatedAt": "2026-11-03T14:09:02.826284+00:00",
+  "appCount": 4019,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
       "name": "Alan's Gigantic Repo",
-      "apps": 16548
+      "apps": 16768
     },
     {
       "url": "https://driftywinds.github.io/AltStore/apps.json",
@@ -75,7 +75,7 @@
     {
       "url": "https://repo.owo.network/",
       "name": "OwO Source",
-      "apps": 163
+      "apps": 164
     },
     {
       "url": "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
