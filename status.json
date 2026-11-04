@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-04T06:15:33.990985+00:00",
-  "appCount": 4027,
+  "updatedAt": "2026-11-04T14:36:32.722097+00:00",
+  "appCount": 3693,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
@@ -75,7 +75,7 @@
     {
       "url": "https://repo.owo.network/",
       "name": "OwO Source",
-      "apps": 166
+      "apps": 169
     },
     {
       "url": "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
@@ -116,11 +116,6 @@
       "url": "https://raw.githubusercontent.com/khcrysalis/Feather/main/app-repo.json",
       "name": "Feather Repository",
       "apps": 1
-    },
-    {
-      "url": "https://repos.gabrx.eu.org/nabzclan.json",
-      "name": "Sidelix App Store",
-      "apps": 1304
     },
     {
       "url": "https://gablilli.github.io/stremiorepo/index.json",
