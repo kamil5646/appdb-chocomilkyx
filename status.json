@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-09T06:22:15.213906+00:00",
-  "appCount": 3716,
+  "updatedAt": "2026-11-09T22:18:50.682829+00:00",
+  "appCount": 3717,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
@@ -129,7 +129,7 @@
     },
     {
       "url": "https://alt.thatstel.la/",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "Expecting value: line 29 column 13 (char 3558)"
     },
     {
       "url": "https://repos.gabrx.eu.org/esign.json",
@@ -138,7 +138,8 @@
     },
     {
       "url": "https://alt.crystall1ne.dev/",
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "name": "crystall1ne.dev",
+      "apps": 2
     },
     {
       "url": "https://apps.sidestore.io/",
