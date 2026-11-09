@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T22:00:31.424335+00:00",
-  "appCount": 3712,
+  "updatedAt": "2026-11-09T06:22:15.213906+00:00",
+  "appCount": 3716,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
       "name": "Alan's Gigantic Repo",
-      "apps": 16945
+      "apps": 16937
     },
     {
       "url": "https://driftywinds.github.io/AltStore/apps.json",
@@ -129,7 +129,7 @@
     },
     {
       "url": "https://alt.thatstel.la/",
-      "error": "Expecting value: line 29 column 13 (char 3558)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "url": "https://repos.gabrx.eu.org/esign.json",
