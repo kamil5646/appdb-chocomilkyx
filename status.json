@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T19:41:49.443691+00:00",
-  "appCount": 3725,
+  "updatedAt": "2026-11-11T06:11:15.504173+00:00",
+  "appCount": 3716,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
       "name": "Alan's Gigantic Repo",
-      "apps": 16994
+      "apps": 16909
     },
     {
       "url": "https://driftywinds.github.io/AltStore/apps.json",
@@ -20,7 +20,7 @@
     {
       "url": "https://repos.gabrx.eu.org/cypwn.json",
       "name": "CyPwn IPA Library",
-      "apps": 209
+      "apps": 207
     },
     {
       "url": "https://wuxu1.github.io/wuxu-complete-plus.json",
