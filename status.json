@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-14T22:21:10.172820+00:00",
-  "appCount": 3751,
+  "updatedAt": "2026-11-15T06:25:11.700363+00:00",
+  "appCount": 3747,
   "sources": [
     {
       "url": "https://fastsign.dev/repo.json",
       "name": "Alan's Gigantic Repo",
-      "apps": 17071
+      "apps": 17052
     },
     {
       "url": "https://driftywinds.github.io/AltStore/apps.json",
@@ -20,7 +20,7 @@
     {
       "url": "https://repos.gabrx.eu.org/cypwn.json",
       "name": "CyPwn IPA Library",
-      "apps": 210
+      "apps": 209
     },
     {
       "url": "https://wuxu1.github.io/wuxu-complete-plus.json",
@@ -104,7 +104,8 @@
     },
     {
       "url": "https://driftywinds.github.io/repos/esign.json",
-      "error": "HTTP Error 503: Service Unavailable"
+      "name": "driftywinds' ESign Repo",
+      "apps": 3
     },
     {
       "url": "https://raw.githubusercontent.com/WhySooooFurious/Ultimate-Sideloading-Guide/refs/heads/main/raw-files/app-repo.json",
