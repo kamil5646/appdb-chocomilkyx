@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T07:24:23.202363+00:00",
+  "updatedAt": "2026-11-18T20:28:27.714703+00:00",
   "appCount": 3616,
   "sources": [
     {
@@ -75,7 +75,7 @@
     {
       "url": "https://repo.owo.network/",
       "name": "OwO Source",
-      "apps": 171
+      "apps": 172
     },
     {
       "url": "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
