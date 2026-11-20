@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:10:34.781611+00:00",
+  "updatedAt": "2026-11-20T20:12:06.583993+00:00",
   "appCount": 3607,
   "sources": [
     {
@@ -34,8 +34,8 @@
     },
     {
       "url": "https://stikdebug.xyz/index.json",
-      "name": "StikDebug & More!",
-      "apps": 2
+      "name": "StikDebug Source",
+      "apps": 1
     },
     {
       "url": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/apps.json",
@@ -75,7 +75,7 @@
     {
       "url": "https://repo.owo.network/",
       "name": "OwO Source",
-      "apps": 172
+      "apps": 174
     },
     {
       "url": "https://raw.githubusercontent.com/Balackburn/YTLitePlusAltstore/main/apps.json",
